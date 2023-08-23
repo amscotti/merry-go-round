@@ -1,0 +1,7 @@
+*.npmrc
+test.js
+coverage
+.gitignore
+.npmignore
+.git
+.github
